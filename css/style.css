@@ -37,6 +37,7 @@ ul {
 
 .menu {
   display: flex;
+  justify-content: space-around;
 }
 
 .desc {
